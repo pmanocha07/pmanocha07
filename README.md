@@ -7,8 +7,8 @@
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #fff0f5; /* Light pink background */
-            color: #333; /* Dark text for readability */
+            background-color: #fff5f7; /* Lighter pink background */
+            color: #4a2d40; /* Deep purple text */
             padding: 20px;
         }
         .container {
@@ -20,10 +20,13 @@
             box-shadow: 0 10px 25px rgba(0,0,0,0.1);
         }
         h1, h2 {
-            color: #d63384; /* Bright pink for headings */
+            color: #c2185b;
+            border-bottom: 1px solid #f8bbd0;
+            padding-bottom: 5px;
         }
         a {
-            color: #e83e8c; /* Pink for links */
+            color: #e83e8c;
+            font-weight: 500;
             text-decoration: none;
         }
         a:hover {
@@ -31,43 +34,46 @@
         }
         .skills, .projects, .connect {
             margin: 20px 0;
+            padding: 15px;
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 8px;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Pavni Manocha</h1>
-        <p><strong>Computer Science Student | Aspiring Web Developer</strong></p>
-        <p>I am a passionate computer science student with a keen interest in web development and software engineering. I enjoy learning new technologies and applying my skills to solve real-world problems.</p>
+        # Pavni Manocha
 
-        <h2>Skills & Technologies</h2>
-        <div class="skills">
-            <p><strong>Languages:</strong> JavaScript, Python, HTML, CSS</p>
-            <p><strong>Frameworks:</strong> React, Node.js</p>
-            <p><strong>Tools:</strong> Git, GitHub, Visual Studio Code</p>
-        </div>
+**Computer Science Student | Aspiring Web Developer**
 
-        <h2>Current Focus</h2>
-        <p>I am currently enhancing my skills in:</p>
-        <ul>
-            <li>JavaScript ES6+</li>
-            <li>React 18</li>
-            <li>Building responsive web applications</li>
-        </ul>
+I am a passionate computer science student with a keen interest in web development and software engineering. I enjoy learning new technologies and applying my skills to solve real-world problems.
 
-        <h2>Projects</h2>
-        <p>I am working on several projects to apply my knowledge and improve my skills. Check back soon for updates!</p>
+        ##  🛠 Skills & Technologies
 
-        <h2>Connect with Me</h2>
-        <p>I am open to collaboration and networking opportunities. Feel free to reach out via:</p>
-        <ul class="connect">
-            <li><a href="https://linkedin.com/in/[YOUR_LINKEDIN]">LinkedIn</a></li>
-            <li><a href="mailto:[YOUR_EMAIL]">Email</a></li>
-        </ul>
+**Languages:** JavaScript, Python, HTML, CSS  
+**Frameworks:** React, Node.js  
+**Tools:** Git, GitHub, Visual Studio Code
 
-        <h2>GitHub Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=pmanocha07&show_icons=true&theme=dark" alt="GitHub Stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmanocha07&layout=compact&theme=dark" alt="Top Languages">
+        ## Current Focus
+
+I am currently enhancing my skills in:
+- JavaScript ES6+
+- React 18
+- Building responsive web applications
+
+        ## Projects
+
+I am working on several projects to apply my knowledge and improve my skills. Check back soon for updates!
+
+        ## Connect with Me
+
+I am open to collaboration and networking opportunities. Feel free to reach out via:
+- [LinkedIn](https://linkedin.com/in/[YOUR_LINKEDIN])
+- [Email](mailto:[YOUR_EMAIL])
+
+        ## GitHub Stats
+        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmanocha07&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmanocha07&layout=compact&theme=radical)
     </div>
 </body>
 </html>
