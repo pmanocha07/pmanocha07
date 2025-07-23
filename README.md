@@ -1,79 +1,81 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pavni Manocha's GitHub Profile</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #fff5f7; /* Lighter pink background */
-            color: #4a2d40; /* Deep purple text */
-            padding: 20px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 30px;
-            background-color: #ffe4f1; /* Soft pink background */
-            border-radius: 10px;
-            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-        }
-        h1, h2 {
-            color: #c2185b;
-            border-bottom: 1px solid #f8bbd0;
-            padding-bottom: 5px;
-        }
-        a {
-            color: #e83e8c;
-            font-weight: 500;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .skills, .projects, .connect {
-            margin: 20px 0;
-            padding: 15px;
-            background-color: rgba(255, 255, 255, 0.8);
-            border-radius: 8px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        # Pavni Manocha
+<h1 align="center">Hi, I'm <span style="color:#58a6ff">Pavni Manocha</span> 👋</h1>
 
-**Computer Science Student | Aspiring Web Developer**
+<p align="center">
+  💻 Computer Science Student & Aspiring Web Developer <br>
+  💡 Currently exploring React, data science and building responsive UIs
+</p>
 
-I am a passionate computer science student with a keen interest in web development and software engineering. I enjoy learning new technologies and applying my skills to solve real-world problems.
+---
 
-        ##  🛠 Skills & Technologies
+### 🛠️ Skills & Technologies
 
-**Languages:** JavaScript, Python, HTML, CSS  
-**Frameworks:** React, Node.js  
-**Tools:** Git, GitHub, Visual Studio Code
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-        ## Current Focus
+---
 
-I am currently enhancing my skills in:
-- JavaScript ES6+
-- React 18
-- Building responsive web applications
+### 🎯 Current Focus
+- ⚡ JavaScript ES6+
+- ⚛️ React 18
+- 🎨 Building responsive & aesthetic UIs
 
-        ## Projects
+---
 
-I am working on several projects to apply my knowledge and improve my skills. Check back soon for updates!
+### 📁 Projects
 
-        ## Connect with Me
+Working on multiple mini & full-stack web apps.  
+Updates coming soon 🚀
 
-I am open to collaboration and networking opportunities. Feel free to reach out via:
-- [LinkedIn](https://linkedin.com/in/[YOUR_LINKEDIN])
-- [Email](mailto:[YOUR_EMAIL])
+---
 
-        ## GitHub Stats
-        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmanocha07&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmanocha07&layout=compact&theme=radical)
-    </div>
-</body>
-</html>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pmanocha07&show_icons=true&theme=dark" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmanocha07&layout=compact&theme=dark" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+### 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pmanocha07&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💬 Fun Facts
+
+- 🐍 Python feels like poetry
+- 🎨 CSS is my pixel playground
+- 🌍 I want to build something *BIG*
+
+---
+
+> “Write code that makes hearts skip a beat 💓”  
+> — Pavni Manocha
