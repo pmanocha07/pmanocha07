@@ -25,14 +25,7 @@
 ### 🎯 Current Focus
 - ⚡ JavaScript ES6+
 - ⚛️ React 18
-- 🎨 Building responsive & aesthetic UIs
-
----
-
-### 📁 Projects
-
-Working on multiple mini & full-stack web apps.  
-Updates coming soon 🚀
+- 🎨 Computer Vision
 
 ---
 
