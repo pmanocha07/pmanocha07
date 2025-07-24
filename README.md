@@ -49,10 +49,10 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/pavni-manocha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:pmanocha553@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
@@ -62,13 +62,5 @@
 
 ---
 
-### 💬 Fun Facts
-
-- 🐍 Python feels like poetry
-- 🎨 CSS is my pixel playground
-- 🌍 I want to build something *BIG*
-
----
-
-> “Write code that makes hearts skip a beat 💓”  
+> “Write code that make changes 💓”  
 > — Pavni Manocha
