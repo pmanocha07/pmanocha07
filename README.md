@@ -56,6 +56,8 @@ Developing a UI framework similar to Tailwind / Bootstrap.
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pmanocha07&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
