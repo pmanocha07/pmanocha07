@@ -76,7 +76,7 @@ Developing a UI framework similar to Tailwind / Bootstrap.
 <p align="center">
 
 🌍 **Portfolio Website**
-👉 https://pavnimanocha.com
+👉 [https://pavnimanocha.com](https://pavnimanocha.com/)
 
 </p>
 
